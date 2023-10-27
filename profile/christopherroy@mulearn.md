@@ -29,30 +29,9 @@ My current plan is to continue my job in bangalore for one to two years and then
 
 I believe that kerala is a breeding ground for many growing coders. In my opinion the logical and tactical approach of kerala people more or less inflicts a natural talent for coding in them. As per my knowledge, kerala does show a great promise in Tech Field.
 
-#### History of Open Source Contributions:
-
-N.A.
-
-#### History of Community Engagement:
-
-N.A
-
-#### Highly Visible Technical Content:
-
-N.A
-
-#### Highly Used Software Tools:
-
-N.A
-
-#### Competitive Website Profiles:
-
-I am not active on coding platforms very much. I learnt coding from textbooks and my practical experiences were from some pet projects i used to do which were basically interesting mathematical and programming problems.
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
 
