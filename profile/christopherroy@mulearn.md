@@ -19,7 +19,7 @@ I reach out to people who shares common interests and converse with them regardi
 
 #### As a Top 100 Member: `required field`
 
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+I am currently employed in a programming job and I do like solving problems. From this programme I would like to gain some experience. I would like to make my profile stronger and at the same time help top100 tackle the programs that I can help them out with
 
 #### Career Plan: `required field`
 
