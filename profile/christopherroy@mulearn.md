@@ -19,35 +19,35 @@ I reach out to people who shares common interests and converse with them regardi
 
 #### As a Top 100 Member: `required field`
 
-I am currently employed in a programming job and I do like solving problems. From this programme I would like to gain some experience. I would like to make my profile stronger and at the same time help top100 tackle the programs that I can help them out with
+I am currently employed in a programming job and I do like solving problems. From this programme I would like to gain some experience. I would like to make my profile stronger and at the same time help top100 to tackle the problems that I can help them out with my skillset.
 
 #### Career Plan: `required field`
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+My current plan is to continue my job in bangalore for one to two years and then pursue a master's degree.
 
 #### Thoughts on Kerala's Tech Ecosystem: `required field`
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+I believe that kerala is a breeding ground for many growing coders. In my opinion the logical and tactical approach of kerala people more or less inflicts a natural talent for coding in them. As per my knowledge, kerala does show a great promise in Tech Field.
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+N.A.
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+N.A
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+N.A
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+N.A
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+I am not active on coding platforms very much. I learnt coding from textbooks and my practical experiences were from some pet projects i used to do which were basically interesting mathematical and programming problems.
 
 
 
